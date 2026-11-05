@@ -76,3 +76,21 @@ Sprint 3 – vecka 41	Sara
 - Jag hjälpte till att hålla struktur i arbetet, följa upp uppgifterna i Trello och diskutera framsteg och hinder tillsammans med gruppen.
 - Vi behövde anpassa planeringen efter hur mycket arbete vi faktiskt hann med, vilket gav mig en bättre förståelse för prioritering och flexibilitet inom Scrum.
 - Vid sprint review kunde vi visa de uppgifter som blivit färdiga och diskutera det arbete som återstod.
+
+## Sprint 5 – vecka 43
+
+### Vad jag arbetade med
+- Jag arbetade med **FE-32 – Gateway-applikation i backend**. Alla i gruppen fick skapa en egen gateway för att öva och förstå hur frontend kommunicerar med olika mikrotjänster.
+- Jag skapade min egen version av gatewayn. Efteråt jämförde vi våra lösningar och bestämde tillsammans att använda Fabians gateway (`gateway-agil`) i det gemensamma projektet.
+- Jag arbetade tillsammans med Sara med **FE-39 – Konfigurera MSW**. Vi konfigurerade MSW för att kunna simulera API-svar och testa frontend utan att behöva starta backend.
+- Jag arbetade självständigt med **FE-40 – Testa produkthämtning**. Jag använde MSW för att testa att produkter kunde hämtas och visas i frontend samt att ett felmeddelande visades om hämtningen misslyckades.
+
+### Eventuella problem och hur jag löste dem
+- En utmaning var att förstå hur gatewayn skulle hantera kommunikationen mellan frontend och de olika backend-tjänsterna. Genom att skapa en egen version fick jag bättre förståelse för hur systemet hänger ihop.
+- Jag behövde också förstå hur MSW fungerar och hur man kan testa API-anrop utan en riktig backend. Genom samarbetet med Sara och arbetet med mina egna tester fick jag mer erfarenhet av integrationstestning.
+
+### Samarbete och agilt arbete
+- Under sprinten arbetade vi både självständigt och tillsammans. Gateway-uppgiften gav oss möjlighet att testa egna lösningar och sedan jämföra dem innan vi valde en gemensam lösning.
+- Jag samarbetade med Sara kring MSW-konfigurationen men tog eget ansvar för testerna av produkthämtningen.
+- Vi diskuterade våra lösningar i gruppen och använde Trello för att följa upp arbetet.
+- Jag lärde mig hur viktigt det är att dela kunskap, kommunicera och samtidigt ta ansvar för sina egna uppgifter i ett agilt projekt.
