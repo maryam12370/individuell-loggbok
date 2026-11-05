@@ -94,3 +94,22 @@ Sprint 3 – vecka 41	Sara
 - Jag samarbetade med Sara kring MSW-konfigurationen men tog eget ansvar för testerna av produkthämtningen.
 - Vi diskuterade våra lösningar i gruppen och använde Trello för att följa upp arbetet.
 - Jag lärde mig hur viktigt det är att dela kunskap, kommunicera och samtidigt ta ansvar för sina egna uppgifter i ett agilt projekt.
+
+## Sprint 6 – vecka 44
+
+### Vad jag arbetade med
+- Jag arbetade med **FE-43 – Skapa README-filer** och uppdaterade README-filen i `gateway-agil`. Jag dokumenterade hur gatewayn fungerar, hur projektet startas och hur den kommunicerar med de andra mikrotjänsterna.
+- Jag arbetade också med **FE-46 – Dokumentera backend med Javadoc** i `gateway-agil`. Jag lade till kommentarer för att förklara vad relevanta klasser och metoder gör. Email-service ingick inte i kraven för denna uppgift.
+- Jag arbetade med funktionen **Öka lager**, där jag behövde göra ändringar i frontend, gateway och product-service så att administratören kunde öka lagersaldot för en produkt.
+- Jag testade webbshoppen lokalt och felsökte kommunikationen mellan tjänsterna. Jag undersökte även problem med driftsättningen på Render.
+
+### Eventuella problem och hur jag löste dem
+- En utmaning var att få frontend, gateway och product-service att kommunicera korrekt. Jag behövde kontrollera API-anrop och konfigurera tjänsterna så att de använde rätt portar.
+- Jag upptäckte bland annat att product-service behövde köras på port 8081 för att fungera med vår lokala gateway. Efter att jag ändrade den lokala konfigurationen kunde jag fortsätta testa funktionerna.
+- Jag undersökte även problem med webbshoppen på Render, men alla problem med driftsättningen blev inte lösta.
+
+### Samarbete och agilt arbete
+- Under den sista sprinten fokuserade vi på att färdigställa funktioner, testa systemet och förbättra dokumentationen inför redovisningen.
+- Jag tog ansvar för dokumentationen i gatewayn och arbetade med att få funktionen Öka lager att fungera tillsammans med de olika tjänsterna.
+- Vi hjälptes åt att felsöka problem och diskuterade vilka delar som behövde prioriteras innan projektet skulle lämnas in.
+- Jag fick en bättre förståelse för hur viktigt det är med tydlig dokumentation, fungerande integrationer och kontinuerlig testning i ett agilt projekt.
