@@ -30,3 +30,28 @@
 - På måndagen gick vi igenom veckans backlog och fördelade uppgifterna mellan oss.
 - Under våra dagliga möten runt kl. 11.00 diskuterade vi hur arbetet gick och om någon behövde hjälp.
 - Vi använde Trello för att hålla koll på uppgifterna och på fredagens sprint review visade vi läraren vad vi hade arbetat med.
+- 
+Sprint 3 – vecka 41
+
+Vad jag arbetade med
+
+Jag arbetade med FE-13 – Gemensam header och footer. Jag skapade en gemensam header och footer för webbshoppen så att sidorna fick en mer enhetlig layout.
+
+Jag arbetade också med FE-16 – Utöka kundvagnen med quantity och prisberäkning. Jag utvecklade kundvagnen så att den kunde visa antal produkter, pris per produkt och totalpris.
+
+Jag arbetade med FE-21 – Kundvagn del 3, där kundvagnens innehåll skulle sparas i sessionStorage och skickas till order-service när kunden genomförde ett köp.
+
+Jag arbetade med dessa tre uppgifter under sprinten och utvecklade webbshoppens funktioner och användargränssnitt.
+
+Eventuella problem och hur jag löste dem
+
+En utmaning var att hantera antal produkter och få prisberäkningen att fungera korrekt i kundvagnen.
+
+Jag behövde också förstå hur sessionStorage fungerade och hur kundvagnen skulle kommunicera med order-service.
+
+Jag arbetade stegvis med funktionerna och testade dem för att kontrollera resultatet.
+### Samarbete och agilt arbete
+- Under sprinten hade vi gemensamma möten där vi diskuterade våra uppgifter, hur arbetet gick och vilka problem vi behövde lösa.
+- Eftersom jag arbetade med både layouten och kundvagnen behövde jag ta hänsyn till hur mina ändringar passade ihop med resten av webbshoppen.
+- Vi använde Trello för att följa upp arbetet och se vilka uppgifter som var färdiga eller behövde mer tid.
+- Under sprint review visade vi vårt arbete för läraren och diskuterade resultatet.
