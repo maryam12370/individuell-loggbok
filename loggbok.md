@@ -55,3 +55,24 @@ Jag arbetade stegvis med funktionerna och testade dem för att kontrollera resul
 - Eftersom jag arbetade med både layouten och kundvagnen behövde jag ta hänsyn till hur mina ändringar passade ihop med resten av webbshoppen.
 - Vi använde Trello för att följa upp arbetet och se vilka uppgifter som var färdiga eller behövde mer tid.
 - Under sprint review visade vi vårt arbete för läraren och diskuterade resultatet.
+Sprint	Scrum Master
+Sprint 1 – vecka 39	Axel
+Sprint 2 – vecka 40	Fabian
+Sprint 3 – vecka 41	Sara
+## Sprint 4 – vecka 42
+
+### Vad jag arbetade med
+- Jag arbetade med **FE-14 – Undersök betalning för webbshoppen**. Jag undersökte olika möjligheter för hur betalning skulle kunna fungera i webbshoppen. Uppgiften blev klar.
+- Jag arbetade också med **FE-29 – 404-sida ska visas vid felaktig URL**. Jag skapade en 404-sida i frontend som visas när användaren försöker öppna en sida som inte finns. Den uppgiften blev också klar.
+- Jag var även tilldelad den gemensamma uppgiften att säkerställa att email-service kunde skicka mejl lokalt. Eftersom arbetsbelastningen var hög prioriterade jag FE-14 och FE-29 och hann inte färdigställa min del av email-uppgiften under sprinten.
+
+### Eventuella problem och hur jag löste dem
+- Jag hade flera uppgifter samtidigt och märkte att tiden inte räckte till för allt.
+- Jag behövde därför prioritera arbetet och fokusera på de två uppgifter som jag kunde slutföra under sprinten.
+- Jag lärde mig att det är viktigt att planera realistiskt och anpassa arbetsmängden efter den tid som finns.
+
+### Samarbete och agilt arbete
+- Under den här sprinten var jag **Scrum Master**, vilket innebar att jag tog ett större ansvar för gruppens agila arbete.
+- Jag hjälpte till att hålla struktur i arbetet, följa upp uppgifterna i Trello och diskutera framsteg och hinder tillsammans med gruppen.
+- Vi behövde anpassa planeringen efter hur mycket arbete vi faktiskt hann med, vilket gav mig en bättre förståelse för prioritering och flexibilitet inom Scrum.
+- Vid sprint review kunde vi visa de uppgifter som blivit färdiga och diskutera det arbete som återstod.
